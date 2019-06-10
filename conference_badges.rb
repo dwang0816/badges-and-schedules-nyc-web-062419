@@ -14,4 +14,4 @@ end
 def assign_rooms(name)
   rooms = []
   
-  name.each_with_index(1) 
+  name.each_with_index(1) do 
