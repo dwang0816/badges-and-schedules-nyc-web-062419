@@ -15,3 +15,4 @@ def assign_rooms(name)
   rooms = []
   
   name.each_with_index(1) do |name, room_assignment|
+    rooms
