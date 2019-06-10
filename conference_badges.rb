@@ -18,3 +18,5 @@ def assign_rooms(name)
     rooms << room_assignment = "Hello, #{name}! You'll be assigned to room #{room_assignment}!"
   end
   rooms
+end
+
